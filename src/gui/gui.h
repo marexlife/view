@@ -3,6 +3,7 @@
 namespace view::gui {
 class Gui final {
 public:
+  void run();
 };
 } // namespace view::gui
 #endif // VIEW_GUI_GUI_H
